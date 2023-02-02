@@ -1,11 +1,8 @@
-1. Donald R. Askeland, Pradeep P. Fulay, and Wendelin Wright, and Kantesh
-Balani, “The Science and Engineering of Materials”, (Cengage Learning),
-Jan. 2012, ISBN-13: 9788131516416.<br>
+1. डोनाल्ड  R. ासकेलैंड , प्रदीप  P. फुले , एवं वेंडेलीन  राइट , और  कांतेश  बलानी , “द साइंस  एंड  इंजीनियरिंग  ऑफ़  मैटेरियल्स”, (सेंग्गे  लर्निंग ), जनवरी. 2012, ISBN-13: 9788131516416<br>
 
-2.  R. Balasubramaniam, "Callister's Materials Science and Engineering",
-2ed (Wiley), Jan. 2014, ISBN-13:  978-8126541607<br>
+2. R. बालसुब्रमनियम , "कॉलिस्टर'स  मैटेरियल्स  साइंस  और  इंजीनियरिंग",2ed (विली), जनवरी. 2014, ISBN-13:  978-8126541607<br>
 
-3. Kantesh Balani, Vivek Verma, Arvind Agarwal, Roger Narayan, Ed.,
-“Biosurfaces: From the Perspective of Materials Scientist and Engineer”,
-John Wiley and Sons Inc., Jan. 2015, ISBN: 978111829997-5<br><br>
+3. कांतेश  बलानी , विवेक  वर्मा , अरविन्द  अग्रवाल , रॉजर  नारायण , Ed.,
+“बीओसुरफकेस : फ्रॉम  द  पर्सपेक्टिव  ऑफ़  मैटेरियल्स  साइंटिस्ट  और  इंजीनियर”,
+जॉन  विली  एंड  संस  इंक., जनवरी 2015, ISBN: 978111829997-5<br><br>
 <a href="https://www.youtube.com/watch?v=EazzyT0qU44&list=PLbMVogVj5nJSl_2XmFjuRmvuAgCOZXUjv&index=43">NPTEL Lecture Link</a>
