@@ -15,4 +15,4 @@
 <img src="images/nickel.jpg"><br>
 निकल(Nickel)<br><br>
 <b>Conclusions</b><br><br>
-<img src="images/micro3.jpg" width=900 heigth=600><br>
+<img src="images/micro3.png" width=900 heigth=600><br>
