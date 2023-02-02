@@ -14,5 +14,5 @@
 एलुमिनियम-मैग्नीशियम(Aluminum-Magnesium)<br><br>
 <img src="images/nickel.jpg"><br>
 निकल(Nickel)<br><br>
-<b>Conclusions</b><br><br>
+<b>निष्कर्ष</b><br><br>
 <img src="images/micro3.png" width=900 heigth=600><br>
