@@ -2,38 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. विरूपण(Creep) क्या है??",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "निरंतर तापमान पर समय स्वतंत्र लोचदार विरूपण",
+        "b": "निरंतर तापमान पर समय स्वतंत्र प्लास्टिक विरूपण",
+        "c": "निरंतर तनाव पर समय पर निर्भर लोचदार विरूपण",
+        "d": "निरंतर तनाव पर समय पर निर्भर स्थायी विकृति"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. विरूपण(Creep) आमतौर पर कितने तापमान पर होता है:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "< 0.2 Tm",
+        "b": "> 0.4 Tm",
+        "c": "at Tm",
+        "d": "> Tm (जहाँ Tm पदार्थ का गलनांक है)."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b"
+    },
+    {
+      "question": "3. प्राथमिक/क्षणिक अवस्था में विरूपण(Creep) दर:",
+      "answers": {
+        "a": "शून्य रहता है",
+        "b": "समय के साथ बढ़ता है",
+        "c": "स्थिर रहता है (शून्य नहीं)",
+        "d": "समय के साथ घटता है"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
+    },
+    {
+      "question": "4. द्वितीयक/स्थिर अवस्था में विरूपण(Creep) दर:",
+      "answers": {
+        "a": "शून्य रहता है",
+        "b": "समय के साथ बढ़ता है",
+        "c": "स्थिर रहता है (शून्य नहीं)",
+        "d": "समय के साथ घटता है"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "5. तृतीयक अवस्था में विरूपण(Creep) दर:",
+      "answers": {
+        "a": "शून्य रहता है",
+        "b": "समय के साथ बढ़ता है",
+        "c": "स्थिर रहता है (शून्य नहीं)",
+        "d": "समय के साथ घटता है"
+      },
+      "correctAnswer": "b"
     }
   ]
 }
